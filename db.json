@@ -3,7 +3,7 @@
     { "id": "M28A9" },
     { "id": "MA7C9" }
   ],
-  "merchant_information": [
+  "merchants": [
     {
       "id": "M001",
       "iban": "GB1234567890123456",
