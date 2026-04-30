@@ -1,7 +1,7 @@
 {
   "merchants": [
     "M28A9",
-    "MA7C9",
+    "MA7C9"
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
