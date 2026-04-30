@@ -3,11 +3,41 @@
     { "id": "M28A9" },
     { "id": "MA7C9" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "merchant_information": [
+    {
+      "id": "M001",
+      "iban": "GB1234567890123456",
+      "discount": {
+        "minimum_transaction_count": 50,
+        "fees_discount": 5
+      },
+      "transactions": [
+        {
+          "id": "T001",
+          "amount": 50000,
+          "fee": 300
+        },
+        {
+          "id": "T002",
+          "amount": 25000,
+          "fee": 150
+        }
+      ]
+    },
+    {
+      "id": "M002",
+      "iban": "GB9876543210987654",
+      "discount": {
+        "minimum_transaction_count": 75,
+        "fees_discount": 10
+      },
+      "transactions": [
+        {
+          "id": "T003",
+          "amount": 100000,
+          "fee": 500
+        }
+      ]
+    }
+  ]
 }
