@@ -1,5 +1,9 @@
 {
   "merchants": [
+    "M001",
+    "M002"
+  ],
+  "merchants-data": [
     {
       "id": "M001",
       "iban": "GB1234567890123456",
