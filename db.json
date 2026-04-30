@@ -17,28 +17,28 @@
                                      "transactions":  [
                                                           {
                                                               "id":  "T839592",
-                                                              "amount":  84237,
-                                                              "fee":  449
+                                                              "amount":  1000,
+                                                              "fee":  100
                                                           },
                                                           {
                                                               "id":  "T988331",
-                                                              "amount":  4735,
-                                                              "fee":  451
+                                                              "amount":  500,
+                                                              "fee":  50
                                                           },
                                                           {
                                                               "id":  "T684058",
-                                                              "amount":  10371,
-                                                              "fee":  26
+                                                              "amount":  500,
+                                                              "fee":  50
                                                           },
                                                           {
                                                               "id":  "T325764",
-                                                              "amount":  76205,
-                                                              "fee":  427
+                                                              "amount":  -1100,
+                                                              "fee":  0
                                                           },
                                                           {
                                                               "id":  "T256901",
-                                                              "amount":  67488,
-                                                              "fee":  203
+                                                              "amount":  -1100,
+                                                              "fee":  0
                                                           }
                                                       ]
                                  },
