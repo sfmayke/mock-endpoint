@@ -19,24 +19,14 @@
                       "M0017",
                       "M0018",
                       "M0019",
-                      "M0020",
-                      "M0021",
-                      "M0022",
-                      "M0023",
-                      "M0024",
-                      "M0025",
-                      "M0026",
-                      "M0027",
-                      "M0028",
-                      "M0029",
-                      "M0030"
+                      "M0020"
                   ],
     "merchant_information":  [
                                  {
                                      "id":  "M0001",
                                      "iban":  "GB7397153715978008",
                                      "discount":  {
-                                                      "minimum_transaction_count":  36,
+                                                      "minimum_transaction_count":  10,
                                                       "fees_discount":  8
                                                   },
                                      "transactions":  [
@@ -89,56 +79,6 @@
                                                               "id":  "T801365",
                                                               "amount":  94916,
                                                               "fee":  443
-                                                          },
-                                                          {
-                                                              "id":  "T401039",
-                                                              "amount":  91025,
-                                                              "fee":  214
-                                                          },
-                                                          {
-                                                              "id":  "T674482",
-                                                              "amount":  3621,
-                                                              "fee":  308
-                                                          },
-                                                          {
-                                                              "id":  "T598364",
-                                                              "amount":  94265,
-                                                              "fee":  400
-                                                          },
-                                                          {
-                                                              "id":  "T787814",
-                                                              "amount":  71218,
-                                                              "fee":  14
-                                                          },
-                                                          {
-                                                              "id":  "T824146",
-                                                              "amount":  39822,
-                                                              "fee":  214
-                                                          },
-                                                          {
-                                                              "id":  "T333709",
-                                                              "amount":  43569,
-                                                              "fee":  311
-                                                          },
-                                                          {
-                                                              "id":  "T846926",
-                                                              "amount":  91437,
-                                                              "fee":  280
-                                                          },
-                                                          {
-                                                              "id":  "T381549",
-                                                              "amount":  62659,
-                                                              "fee":  472
-                                                          },
-                                                          {
-                                                              "id":  "T103686",
-                                                              "amount":  85290,
-                                                              "fee":  346
-                                                          },
-                                                          {
-                                                              "id":  "T929031",
-                                                              "amount":  65760,
-                                                              "fee":  162
                                                           }
                                                       ]
                                  },
@@ -146,7 +86,7 @@
                                      "id":  "M0002",
                                      "iban":  "GB8803644630344515",
                                      "discount":  {
-                                                      "minimum_transaction_count":  65,
+                                                      "minimum_transaction_count":  14,
                                                       "fees_discount":  13
                                                   },
                                      "transactions":  [
@@ -219,41 +159,6 @@
                                                               "id":  "T661850",
                                                               "amount":  55184,
                                                               "fee":  308
-                                                          },
-                                                          {
-                                                              "id":  "T836025",
-                                                              "amount":  5987,
-                                                              "fee":  60
-                                                          },
-                                                          {
-                                                              "id":  "T698216",
-                                                              "amount":  7710,
-                                                              "fee":  388
-                                                          },
-                                                          {
-                                                              "id":  "T409656",
-                                                              "amount":  20904,
-                                                              "fee":  425
-                                                          },
-                                                          {
-                                                              "id":  "T527513",
-                                                              "amount":  81504,
-                                                              "fee":  468
-                                                          },
-                                                          {
-                                                              "id":  "T816539",
-                                                              "amount":  60641,
-                                                              "fee":  154
-                                                          },
-                                                          {
-                                                              "id":  "T490597",
-                                                              "amount":  88426,
-                                                              "fee":  337
-                                                          },
-                                                          {
-                                                              "id":  "T943612",
-                                                              "amount":  41530,
-                                                              "fee":  393
                                                           }
                                                       ]
                                  },
@@ -261,7 +166,7 @@
                                      "id":  "M0003",
                                      "iban":  "GB9924978356862105",
                                      "discount":  {
-                                                      "minimum_transaction_count":  57,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  5
                                                   },
                                      "transactions":  [
@@ -329,51 +234,6 @@
                                                               "id":  "T158814",
                                                               "amount":  78752,
                                                               "fee":  375
-                                                          },
-                                                          {
-                                                              "id":  "T410578",
-                                                              "amount":  68093,
-                                                              "fee":  472
-                                                          },
-                                                          {
-                                                              "id":  "T214388",
-                                                              "amount":  7397,
-                                                              "fee":  215
-                                                          },
-                                                          {
-                                                              "id":  "T474195",
-                                                              "amount":  33965,
-                                                              "fee":  172
-                                                          },
-                                                          {
-                                                              "id":  "T738331",
-                                                              "amount":  92429,
-                                                              "fee":  65
-                                                          },
-                                                          {
-                                                              "id":  "T608171",
-                                                              "amount":  75301,
-                                                              "fee":  486
-                                                          },
-                                                          {
-                                                              "id":  "T703560",
-                                                              "amount":  96565,
-                                                              "fee":  367
-                                                          },
-                                                          {
-                                                              "id":  "T637705",
-                                                              "amount":  10712,
-                                                              "fee":  46
-                                                          },
-                                                          {
-                                                              "id":  "T349870",
-                                                              "amount":  69849,
-                                                              "fee":  336
-                                                          },
-                                                          {
-                                                              "id":  "T689765",
-                                                              "amount":  32508,
-                                                              "fee":  294
                                                           }
                                                       ]
                                  },
@@ -381,7 +241,7 @@
                                      "id":  "M0004",
                                      "iban":  "GB4998433361916225",
                                      "discount":  {
-                                                      "minimum_transaction_count":  37,
+                                                      "minimum_transaction_count":  9,
                                                       "fees_discount":  2
                                                   },
                                      "transactions":  [
@@ -434,71 +294,6 @@
                                                               "id":  "T593212",
                                                               "amount":  48856,
                                                               "fee":  209
-                                                          },
-                                                          {
-                                                              "id":  "T374295",
-                                                              "amount":  4819,
-                                                              "fee":  79
-                                                          },
-                                                          {
-                                                              "id":  "T443898",
-                                                              "amount":  83146,
-                                                              "fee":  296
-                                                          },
-                                                          {
-                                                              "id":  "T695298",
-                                                              "amount":  53219,
-                                                              "fee":  39
-                                                          },
-                                                          {
-                                                              "id":  "T542507",
-                                                              "amount":  32328,
-                                                              "fee":  175
-                                                          },
-                                                          {
-                                                              "id":  "T242484",
-                                                              "amount":  34041,
-                                                              "fee":  242
-                                                          },
-                                                          {
-                                                              "id":  "T858875",
-                                                              "amount":  85243,
-                                                              "fee":  434
-                                                          },
-                                                          {
-                                                              "id":  "T533907",
-                                                              "amount":  49041,
-                                                              "fee":  45
-                                                          },
-                                                          {
-                                                              "id":  "T711785",
-                                                              "amount":  98464,
-                                                              "fee":  308
-                                                          },
-                                                          {
-                                                              "id":  "T608831",
-                                                              "amount":  35057,
-                                                              "fee":  102
-                                                          },
-                                                          {
-                                                              "id":  "T815832",
-                                                              "amount":  85775,
-                                                              "fee":  285
-                                                          },
-                                                          {
-                                                              "id":  "T166813",
-                                                              "amount":  89770,
-                                                              "fee":  497
-                                                          },
-                                                          {
-                                                              "id":  "T579773",
-                                                              "amount":  6607,
-                                                              "fee":  483
-                                                          },
-                                                          {
-                                                              "id":  "T255427",
-                                                              "amount":  46569,
-                                                              "fee":  371
                                                           }
                                                       ]
                                  },
@@ -506,7 +301,7 @@
                                      "id":  "M0005",
                                      "iban":  "GB2670779555769630",
                                      "discount":  {
-                                                      "minimum_transaction_count":  45,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  6
                                                   },
                                      "transactions":  [
@@ -574,61 +369,6 @@
                                                               "id":  "T702628",
                                                               "amount":  26518,
                                                               "fee":  232
-                                                          },
-                                                          {
-                                                              "id":  "T882671",
-                                                              "amount":  34265,
-                                                              "fee":  184
-                                                          },
-                                                          {
-                                                              "id":  "T918039",
-                                                              "amount":  48461,
-                                                              "fee":  266
-                                                          },
-                                                          {
-                                                              "id":  "T480627",
-                                                              "amount":  48641,
-                                                              "fee":  214
-                                                          },
-                                                          {
-                                                              "id":  "T182634",
-                                                              "amount":  81296,
-                                                              "fee":  40
-                                                          },
-                                                          {
-                                                              "id":  "T357491",
-                                                              "amount":  91937,
-                                                              "fee":  471
-                                                          },
-                                                          {
-                                                              "id":  "T654930",
-                                                              "amount":  79148,
-                                                              "fee":  331
-                                                          },
-                                                          {
-                                                              "id":  "T478378",
-                                                              "amount":  96805,
-                                                              "fee":  14
-                                                          },
-                                                          {
-                                                              "id":  "T121700",
-                                                              "amount":  55330,
-                                                              "fee":  295
-                                                          },
-                                                          {
-                                                              "id":  "T847500",
-                                                              "amount":  46288,
-                                                              "fee":  192
-                                                          },
-                                                          {
-                                                              "id":  "T344889",
-                                                              "amount":  31498,
-                                                              "fee":  41
-                                                          },
-                                                          {
-                                                              "id":  "T589223",
-                                                              "amount":  73549,
-                                                              "fee":  421
                                                           }
                                                       ]
                                  },
@@ -636,7 +376,7 @@
                                      "id":  "M0006",
                                      "iban":  "GB4044501535089300",
                                      "discount":  {
-                                                      "minimum_transaction_count":  62,
+                                                      "minimum_transaction_count":  15,
                                                       "fees_discount":  14
                                                   },
                                      "transactions":  [
@@ -714,56 +454,6 @@
                                                               "id":  "T378728",
                                                               "amount":  87906,
                                                               "fee":  431
-                                                          },
-                                                          {
-                                                              "id":  "T106564",
-                                                              "amount":  66250,
-                                                              "fee":  114
-                                                          },
-                                                          {
-                                                              "id":  "T292980",
-                                                              "amount":  99943,
-                                                              "fee":  293
-                                                          },
-                                                          {
-                                                              "id":  "T526263",
-                                                              "amount":  37462,
-                                                              "fee":  102
-                                                          },
-                                                          {
-                                                              "id":  "T443540",
-                                                              "amount":  7402,
-                                                              "fee":  270
-                                                          },
-                                                          {
-                                                              "id":  "T120677",
-                                                              "amount":  3038,
-                                                              "fee":  322
-                                                          },
-                                                          {
-                                                              "id":  "T927934",
-                                                              "amount":  4662,
-                                                              "fee":  413
-                                                          },
-                                                          {
-                                                              "id":  "T512361",
-                                                              "amount":  10174,
-                                                              "fee":  221
-                                                          },
-                                                          {
-                                                              "id":  "T790064",
-                                                              "amount":  31488,
-                                                              "fee":  454
-                                                          },
-                                                          {
-                                                              "id":  "T309510",
-                                                              "amount":  31625,
-                                                              "fee":  100
-                                                          },
-                                                          {
-                                                              "id":  "T760157",
-                                                              "amount":  91594,
-                                                              "fee":  425
                                                           }
                                                       ]
                                  },
@@ -771,7 +461,7 @@
                                      "id":  "M0007",
                                      "iban":  "GB1300626201177043",
                                      "discount":  {
-                                                      "minimum_transaction_count":  37,
+                                                      "minimum_transaction_count":  11,
                                                       "fees_discount":  12
                                                   },
                                      "transactions":  [
@@ -829,81 +519,6 @@
                                                               "id":  "T740014",
                                                               "amount":  20636,
                                                               "fee":  13
-                                                          },
-                                                          {
-                                                              "id":  "T871330",
-                                                              "amount":  55348,
-                                                              "fee":  288
-                                                          },
-                                                          {
-                                                              "id":  "T374541",
-                                                              "amount":  50136,
-                                                              "fee":  249
-                                                          },
-                                                          {
-                                                              "id":  "T991872",
-                                                              "amount":  83198,
-                                                              "fee":  17
-                                                          },
-                                                          {
-                                                              "id":  "T616980",
-                                                              "amount":  85678,
-                                                              "fee":  420
-                                                          },
-                                                          {
-                                                              "id":  "T534370",
-                                                              "amount":  78413,
-                                                              "fee":  338
-                                                          },
-                                                          {
-                                                              "id":  "T185036",
-                                                              "amount":  89443,
-                                                              "fee":  202
-                                                          },
-                                                          {
-                                                              "id":  "T215407",
-                                                              "amount":  72826,
-                                                              "fee":  332
-                                                          },
-                                                          {
-                                                              "id":  "T226368",
-                                                              "amount":  61081,
-                                                              "fee":  74
-                                                          },
-                                                          {
-                                                              "id":  "T422607",
-                                                              "amount":  31775,
-                                                              "fee":  125
-                                                          },
-                                                          {
-                                                              "id":  "T320460",
-                                                              "amount":  6896,
-                                                              "fee":  82
-                                                          },
-                                                          {
-                                                              "id":  "T792000",
-                                                              "amount":  59929,
-                                                              "fee":  36
-                                                          },
-                                                          {
-                                                              "id":  "T644329",
-                                                              "amount":  16130,
-                                                              "fee":  226
-                                                          },
-                                                          {
-                                                              "id":  "T760619",
-                                                              "amount":  4180,
-                                                              "fee":  415
-                                                          },
-                                                          {
-                                                              "id":  "T759714",
-                                                              "amount":  84888,
-                                                              "fee":  237
-                                                          },
-                                                          {
-                                                              "id":  "T388621",
-                                                              "amount":  57268,
-                                                              "fee":  239
                                                           }
                                                       ]
                                  },
@@ -911,7 +526,7 @@
                                      "id":  "M0008",
                                      "iban":  "GB1661599064820729",
                                      "discount":  {
-                                                      "minimum_transaction_count":  62,
+                                                      "minimum_transaction_count":  11,
                                                       "fees_discount":  8
                                                   },
                                      "transactions":  [
@@ -974,81 +589,6 @@
                                                               "id":  "T260145",
                                                               "amount":  63927,
                                                               "fee":  144
-                                                          },
-                                                          {
-                                                              "id":  "T284331",
-                                                              "amount":  31040,
-                                                              "fee":  438
-                                                          },
-                                                          {
-                                                              "id":  "T839968",
-                                                              "amount":  4843,
-                                                              "fee":  66
-                                                          },
-                                                          {
-                                                              "id":  "T191211",
-                                                              "amount":  58682,
-                                                              "fee":  309
-                                                          },
-                                                          {
-                                                              "id":  "T306173",
-                                                              "amount":  15610,
-                                                              "fee":  77
-                                                          },
-                                                          {
-                                                              "id":  "T474170",
-                                                              "amount":  45175,
-                                                              "fee":  301
-                                                          },
-                                                          {
-                                                              "id":  "T867699",
-                                                              "amount":  22230,
-                                                              "fee":  17
-                                                          },
-                                                          {
-                                                              "id":  "T943576",
-                                                              "amount":  96071,
-                                                              "fee":  234
-                                                          },
-                                                          {
-                                                              "id":  "T976084",
-                                                              "amount":  42929,
-                                                              "fee":  471
-                                                          },
-                                                          {
-                                                              "id":  "T761202",
-                                                              "amount":  40872,
-                                                              "fee":  156
-                                                          },
-                                                          {
-                                                              "id":  "T524752",
-                                                              "amount":  31635,
-                                                              "fee":  388
-                                                          },
-                                                          {
-                                                              "id":  "T718562",
-                                                              "amount":  40352,
-                                                              "fee":  434
-                                                          },
-                                                          {
-                                                              "id":  "T858610",
-                                                              "amount":  39237,
-                                                              "fee":  317
-                                                          },
-                                                          {
-                                                              "id":  "T470050",
-                                                              "amount":  13440,
-                                                              "fee":  386
-                                                          },
-                                                          {
-                                                              "id":  "T193084",
-                                                              "amount":  88705,
-                                                              "fee":  367
-                                                          },
-                                                          {
-                                                              "id":  "T725423",
-                                                              "amount":  98138,
-                                                              "fee":  409
                                                           }
                                                       ]
                                  },
@@ -1056,7 +596,7 @@
                                      "id":  "M0009",
                                      "iban":  "GB4724129348297815",
                                      "discount":  {
-                                                      "minimum_transaction_count":  58,
+                                                      "minimum_transaction_count":  15,
                                                       "fees_discount":  9
                                                   },
                                      "transactions":  [
@@ -1134,71 +674,6 @@
                                                               "id":  "T839962",
                                                               "amount":  86063,
                                                               "fee":  408
-                                                          },
-                                                          {
-                                                              "id":  "T784847",
-                                                              "amount":  57181,
-                                                              "fee":  55
-                                                          },
-                                                          {
-                                                              "id":  "T724036",
-                                                              "amount":  33501,
-                                                              "fee":  291
-                                                          },
-                                                          {
-                                                              "id":  "T799035",
-                                                              "amount":  72304,
-                                                              "fee":  78
-                                                          },
-                                                          {
-                                                              "id":  "T991687",
-                                                              "amount":  90465,
-                                                              "fee":  430
-                                                          },
-                                                          {
-                                                              "id":  "T794198",
-                                                              "amount":  1895,
-                                                              "fee":  225
-                                                          },
-                                                          {
-                                                              "id":  "T258328",
-                                                              "amount":  28110,
-                                                              "fee":  448
-                                                          },
-                                                          {
-                                                              "id":  "T714094",
-                                                              "amount":  20128,
-                                                              "fee":  81
-                                                          },
-                                                          {
-                                                              "id":  "T502532",
-                                                              "amount":  10470,
-                                                              "fee":  140
-                                                          },
-                                                          {
-                                                              "id":  "T216320",
-                                                              "amount":  32079,
-                                                              "fee":  399
-                                                          },
-                                                          {
-                                                              "id":  "T758158",
-                                                              "amount":  58007,
-                                                              "fee":  443
-                                                          },
-                                                          {
-                                                              "id":  "T178620",
-                                                              "amount":  93713,
-                                                              "fee":  90
-                                                          },
-                                                          {
-                                                              "id":  "T154987",
-                                                              "amount":  97470,
-                                                              "fee":  157
-                                                          },
-                                                          {
-                                                              "id":  "T516071",
-                                                              "amount":  1642,
-                                                              "fee":  61
                                                           }
                                                       ]
                                  },
@@ -1206,7 +681,7 @@
                                      "id":  "M0010",
                                      "iban":  "GB0439565102526598",
                                      "discount":  {
-                                                      "minimum_transaction_count":  61,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  6
                                                   },
                                      "transactions":  [
@@ -1274,86 +749,6 @@
                                                               "id":  "T555763",
                                                               "amount":  15708,
                                                               "fee":  273
-                                                          },
-                                                          {
-                                                              "id":  "T589856",
-                                                              "amount":  31696,
-                                                              "fee":  370
-                                                          },
-                                                          {
-                                                              "id":  "T294627",
-                                                              "amount":  11561,
-                                                              "fee":  454
-                                                          },
-                                                          {
-                                                              "id":  "T561581",
-                                                              "amount":  37846,
-                                                              "fee":  131
-                                                          },
-                                                          {
-                                                              "id":  "T388384",
-                                                              "amount":  87375,
-                                                              "fee":  300
-                                                          },
-                                                          {
-                                                              "id":  "T591706",
-                                                              "amount":  65051,
-                                                              "fee":  444
-                                                          },
-                                                          {
-                                                              "id":  "T721122",
-                                                              "amount":  79225,
-                                                              "fee":  137
-                                                          },
-                                                          {
-                                                              "id":  "T304946",
-                                                              "amount":  82477,
-                                                              "fee":  419
-                                                          },
-                                                          {
-                                                              "id":  "T453001",
-                                                              "amount":  16262,
-                                                              "fee":  153
-                                                          },
-                                                          {
-                                                              "id":  "T148089",
-                                                              "amount":  15669,
-                                                              "fee":  199
-                                                          },
-                                                          {
-                                                              "id":  "T580491",
-                                                              "amount":  32864,
-                                                              "fee":  425
-                                                          },
-                                                          {
-                                                              "id":  "T560251",
-                                                              "amount":  10290,
-                                                              "fee":  363
-                                                          },
-                                                          {
-                                                              "id":  "T349678",
-                                                              "amount":  46950,
-                                                              "fee":  249
-                                                          },
-                                                          {
-                                                              "id":  "T350321",
-                                                              "amount":  85244,
-                                                              "fee":  110
-                                                          },
-                                                          {
-                                                              "id":  "T262993",
-                                                              "amount":  71628,
-                                                              "fee":  350
-                                                          },
-                                                          {
-                                                              "id":  "T826229",
-                                                              "amount":  49322,
-                                                              "fee":  370
-                                                          },
-                                                          {
-                                                              "id":  "T760866",
-                                                              "amount":  70896,
-                                                              "fee":  108
                                                           }
                                                       ]
                                  },
@@ -1361,7 +756,7 @@
                                      "id":  "M0011",
                                      "iban":  "GB1772077558968852",
                                      "discount":  {
-                                                      "minimum_transaction_count":  78,
+                                                      "minimum_transaction_count":  9,
                                                       "fees_discount":  15
                                                   },
                                      "transactions":  [
@@ -1414,106 +809,6 @@
                                                               "id":  "T123197",
                                                               "amount":  16380,
                                                               "fee":  446
-                                                          },
-                                                          {
-                                                              "id":  "T972471",
-                                                              "amount":  62788,
-                                                              "fee":  385
-                                                          },
-                                                          {
-                                                              "id":  "T358129",
-                                                              "amount":  90160,
-                                                              "fee":  33
-                                                          },
-                                                          {
-                                                              "id":  "T300272",
-                                                              "amount":  55044,
-                                                              "fee":  429
-                                                          },
-                                                          {
-                                                              "id":  "T731398",
-                                                              "amount":  16307,
-                                                              "fee":  38
-                                                          },
-                                                          {
-                                                              "id":  "T161773",
-                                                              "amount":  46153,
-                                                              "fee":  79
-                                                          },
-                                                          {
-                                                              "id":  "T594379",
-                                                              "amount":  90820,
-                                                              "fee":  206
-                                                          },
-                                                          {
-                                                              "id":  "T559685",
-                                                              "amount":  48210,
-                                                              "fee":  460
-                                                          },
-                                                          {
-                                                              "id":  "T691016",
-                                                              "amount":  52832,
-                                                              "fee":  24
-                                                          },
-                                                          {
-                                                              "id":  "T604310",
-                                                              "amount":  10159,
-                                                              "fee":  100
-                                                          },
-                                                          {
-                                                              "id":  "T326818",
-                                                              "amount":  34398,
-                                                              "fee":  87
-                                                          },
-                                                          {
-                                                              "id":  "T420409",
-                                                              "amount":  67309,
-                                                              "fee":  433
-                                                          },
-                                                          {
-                                                              "id":  "T263243",
-                                                              "amount":  10670,
-                                                              "fee":  397
-                                                          },
-                                                          {
-                                                              "id":  "T509852",
-                                                              "amount":  54418,
-                                                              "fee":  477
-                                                          },
-                                                          {
-                                                              "id":  "T830522",
-                                                              "amount":  79859,
-                                                              "fee":  446
-                                                          },
-                                                          {
-                                                              "id":  "T772681",
-                                                              "amount":  69888,
-                                                              "fee":  51
-                                                          },
-                                                          {
-                                                              "id":  "T709862",
-                                                              "amount":  84735,
-                                                              "fee":  281
-                                                          },
-                                                          {
-                                                              "id":  "T118215",
-                                                              "amount":  42567,
-                                                              "fee":  294
-                                                          },
-                                                          {
-                                                              "id":  "T368089",
-                                                              "amount":  70694,
-                                                              "fee":  125
-                                                          },
-                                                          {
-                                                              "id":  "T665983",
-                                                              "amount":  15528,
-                                                              "fee":  478
-                                                          },
-                                                          {
-                                                              "id":  "T350807",
-                                                              "amount":  60428,
-                                                              "fee":  168
                                                           }
                                                       ]
                                  },
@@ -1521,7 +816,7 @@
                                      "id":  "M0012",
                                      "iban":  "GB4915169345002589",
                                      "discount":  {
-                                                      "minimum_transaction_count":  33,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  12
                                                   },
                                      "transactions":  [
@@ -1589,41 +884,6 @@
                                                               "id":  "T988141",
                                                               "amount":  14866,
                                                               "fee":  56
-                                                          },
-                                                          {
-                                                              "id":  "T393809",
-                                                              "amount":  34234,
-                                                              "fee":  463
-                                                          },
-                                                          {
-                                                              "id":  "T871917",
-                                                              "amount":  35782,
-                                                              "fee":  468
-                                                          },
-                                                          {
-                                                              "id":  "T576138",
-                                                              "amount":  67251,
-                                                              "fee":  427
-                                                          },
-                                                          {
-                                                              "id":  "T822248",
-                                                              "amount":  21166,
-                                                              "fee":  150
-                                                          },
-                                                          {
-                                                              "id":  "T639127",
-                                                              "amount":  19139,
-                                                              "fee":  135
-                                                          },
-                                                          {
-                                                              "id":  "T125124",
-                                                              "amount":  27663,
-                                                              "fee":  259
-                                                          },
-                                                          {
-                                                              "id":  "T581441",
-                                                              "amount":  64794,
-                                                              "fee":  130
                                                           }
                                                       ]
                                  },
@@ -1631,7 +891,7 @@
                                      "id":  "M0013",
                                      "iban":  "GB5280342780290323",
                                      "discount":  {
-                                                      "minimum_transaction_count":  30,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  1
                                                   },
                                      "transactions":  [
@@ -1699,46 +959,6 @@
                                                               "id":  "T528227",
                                                               "amount":  95621,
                                                               "fee":  333
-                                                          },
-                                                          {
-                                                              "id":  "T557684",
-                                                              "amount":  44118,
-                                                              "fee":  231
-                                                          },
-                                                          {
-                                                              "id":  "T527478",
-                                                              "amount":  84231,
-                                                              "fee":  199
-                                                          },
-                                                          {
-                                                              "id":  "T406185",
-                                                              "amount":  66708,
-                                                              "fee":  87
-                                                          },
-                                                          {
-                                                              "id":  "T446676",
-                                                              "amount":  62538,
-                                                              "fee":  286
-                                                          },
-                                                          {
-                                                              "id":  "T792441",
-                                                              "amount":  19661,
-                                                              "fee":  483
-                                                          },
-                                                          {
-                                                              "id":  "T971756",
-                                                              "amount":  54846,
-                                                              "fee":  58
-                                                          },
-                                                          {
-                                                              "id":  "T818657",
-                                                              "amount":  8592,
-                                                              "fee":  421
-                                                          },
-                                                          {
-                                                              "id":  "T603575",
-                                                              "amount":  78115,
-                                                              "fee":  163
                                                           }
                                                       ]
                                  },
@@ -1746,7 +966,7 @@
                                      "id":  "M0014",
                                      "iban":  "GB3160816369241636",
                                      "discount":  {
-                                                      "minimum_transaction_count":  63,
+                                                      "minimum_transaction_count":  12,
                                                       "fees_discount":  7
                                                   },
                                      "transactions":  [
@@ -1809,56 +1029,6 @@
                                                               "id":  "T676846",
                                                               "amount":  32417,
                                                               "fee":  341
-                                                          },
-                                                          {
-                                                              "id":  "T154798",
-                                                              "amount":  45056,
-                                                              "fee":  36
-                                                          },
-                                                          {
-                                                              "id":  "T863978",
-                                                              "amount":  22397,
-                                                              "fee":  297
-                                                          },
-                                                          {
-                                                              "id":  "T676364",
-                                                              "amount":  40888,
-                                                              "fee":  78
-                                                          },
-                                                          {
-                                                              "id":  "T854637",
-                                                              "amount":  34141,
-                                                              "fee":  38
-                                                          },
-                                                          {
-                                                              "id":  "T697226",
-                                                              "amount":  87485,
-                                                              "fee":  281
-                                                          },
-                                                          {
-                                                              "id":  "T732644",
-                                                              "amount":  89422,
-                                                              "fee":  151
-                                                          },
-                                                          {
-                                                              "id":  "T180552",
-                                                              "amount":  55485,
-                                                              "fee":  404
-                                                          },
-                                                          {
-                                                              "id":  "T507428",
-                                                              "amount":  84651,
-                                                              "fee":  485
-                                                          },
-                                                          {
-                                                              "id":  "T621564",
-                                                              "amount":  78747,
-                                                              "fee":  363
-                                                          },
-                                                          {
-                                                              "id":  "T902468",
-                                                              "amount":  11484,
-                                                              "fee":  482
                                                           }
                                                       ]
                                  },
@@ -1866,7 +1036,7 @@
                                      "id":  "M0015",
                                      "iban":  "GB8679224914085828",
                                      "discount":  {
-                                                      "minimum_transaction_count":  60,
+                                                      "minimum_transaction_count":  14,
                                                       "fees_discount":  11
                                                   },
                                      "transactions":  [
@@ -1939,51 +1109,6 @@
                                                               "id":  "T961352",
                                                               "amount":  73823,
                                                               "fee":  468
-                                                          },
-                                                          {
-                                                              "id":  "T865028",
-                                                              "amount":  83397,
-                                                              "fee":  185
-                                                          },
-                                                          {
-                                                              "id":  "T301465",
-                                                              "amount":  35696,
-                                                              "fee":  491
-                                                          },
-                                                          {
-                                                              "id":  "T484602",
-                                                              "amount":  71209,
-                                                              "fee":  282
-                                                          },
-                                                          {
-                                                              "id":  "T735945",
-                                                              "amount":  30222,
-                                                              "fee":  420
-                                                          },
-                                                          {
-                                                              "id":  "T373197",
-                                                              "amount":  98669,
-                                                              "fee":  363
-                                                          },
-                                                          {
-                                                              "id":  "T189419",
-                                                              "amount":  15792,
-                                                              "fee":  396
-                                                          },
-                                                          {
-                                                              "id":  "T810941",
-                                                              "amount":  27292,
-                                                              "fee":  166
-                                                          },
-                                                          {
-                                                              "id":  "T708703",
-                                                              "amount":  53683,
-                                                              "fee":  192
-                                                          },
-                                                          {
-                                                              "id":  "T455371",
-                                                              "amount":  45745,
-                                                              "fee":  137
                                                           }
                                                       ]
                                  },
@@ -1991,7 +1116,7 @@
                                      "id":  "M0016",
                                      "iban":  "GB5906853487599278",
                                      "discount":  {
-                                                      "minimum_transaction_count":  71,
+                                                      "minimum_transaction_count":  14,
                                                       "fees_discount":  4
                                                   },
                                      "transactions":  [
@@ -2064,56 +1189,6 @@
                                                               "id":  "T467643",
                                                               "amount":  84798,
                                                               "fee":  175
-                                                          },
-                                                          {
-                                                              "id":  "T126809",
-                                                              "amount":  61447,
-                                                              "fee":  95
-                                                          },
-                                                          {
-                                                              "id":  "T347433",
-                                                              "amount":  18939,
-                                                              "fee":  441
-                                                          },
-                                                          {
-                                                              "id":  "T458074",
-                                                              "amount":  43272,
-                                                              "fee":  140
-                                                          },
-                                                          {
-                                                              "id":  "T816287",
-                                                              "amount":  46047,
-                                                              "fee":  306
-                                                          },
-                                                          {
-                                                              "id":  "T861898",
-                                                              "amount":  7899,
-                                                              "fee":  22
-                                                          },
-                                                          {
-                                                              "id":  "T288743",
-                                                              "amount":  64470,
-                                                              "fee":  343
-                                                          },
-                                                          {
-                                                              "id":  "T833370",
-                                                              "amount":  86959,
-                                                              "fee":  415
-                                                          },
-                                                          {
-                                                              "id":  "T121585",
-                                                              "amount":  83804,
-                                                              "fee":  320
-                                                          },
-                                                          {
-                                                              "id":  "T177241",
-                                                              "amount":  35988,
-                                                              "fee":  164
-                                                          },
-                                                          {
-                                                              "id":  "T982986",
-                                                              "amount":  98098,
-                                                              "fee":  189
                                                           }
                                                       ]
                                  },
@@ -2121,7 +1196,7 @@
                                      "id":  "M0017",
                                      "iban":  "GB0838787791899497",
                                      "discount":  {
-                                                      "minimum_transaction_count":  67,
+                                                      "minimum_transaction_count":  10,
                                                       "fees_discount":  12
                                                   },
                                      "transactions":  [
@@ -2174,81 +1249,6 @@
                                                               "id":  "T586672",
                                                               "amount":  19159,
                                                               "fee":  322
-                                                          },
-                                                          {
-                                                              "id":  "T160367",
-                                                              "amount":  20836,
-                                                              "fee":  359
-                                                          },
-                                                          {
-                                                              "id":  "T497281",
-                                                              "amount":  54059,
-                                                              "fee":  215
-                                                          },
-                                                          {
-                                                              "id":  "T517358",
-                                                              "amount":  51367,
-                                                              "fee":  16
-                                                          },
-                                                          {
-                                                              "id":  "T646668",
-                                                              "amount":  71043,
-                                                              "fee":  263
-                                                          },
-                                                          {
-                                                              "id":  "T159162",
-                                                              "amount":  25593,
-                                                              "fee":  274
-                                                          },
-                                                          {
-                                                              "id":  "T157209",
-                                                              "amount":  58126,
-                                                              "fee":  416
-                                                          },
-                                                          {
-                                                              "id":  "T390495",
-                                                              "amount":  96924,
-                                                              "fee":  471
-                                                          },
-                                                          {
-                                                              "id":  "T909271",
-                                                              "amount":  14420,
-                                                              "fee":  176
-                                                          },
-                                                          {
-                                                              "id":  "T777568",
-                                                              "amount":  87034,
-                                                              "fee":  301
-                                                          },
-                                                          {
-                                                              "id":  "T259116",
-                                                              "amount":  52681,
-                                                              "fee":  82
-                                                          },
-                                                          {
-                                                              "id":  "T357437",
-                                                              "amount":  53913,
-                                                              "fee":  263
-                                                          },
-                                                          {
-                                                              "id":  "T719392",
-                                                              "amount":  25246,
-                                                              "fee":  251
-                                                          },
-                                                          {
-                                                              "id":  "T187253",
-                                                              "amount":  99391,
-                                                              "fee":  327
-                                                          },
-                                                          {
-                                                              "id":  "T422726",
-                                                              "amount":  64312,
-                                                              "fee":  96
-                                                          },
-                                                          {
-                                                              "id":  "T322984",
-                                                              "amount":  33498,
-                                                              "fee":  328
                                                           }
                                                       ]
                                  },
@@ -2256,7 +1256,7 @@
                                      "id":  "M0018",
                                      "iban":  "GB2535756070732674",
                                      "discount":  {
-                                                      "minimum_transaction_count":  78,
+                                                      "minimum_transaction_count":  15,
                                                       "fees_discount":  10
                                                   },
                                      "transactions":  [
@@ -2334,61 +1334,6 @@
                                                               "id":  "T875194",
                                                               "amount":  59671,
                                                               "fee":  109
-                                                          },
-                                                          {
-                                                              "id":  "T172935",
-                                                              "amount":  21649,
-                                                              "fee":  389
-                                                          },
-                                                          {
-                                                              "id":  "T641130",
-                                                              "amount":  58314,
-                                                              "fee":  12
-                                                          },
-                                                          {
-                                                              "id":  "T785659",
-                                                              "amount":  88254,
-                                                              "fee":  73
-                                                          },
-                                                          {
-                                                              "id":  "T395747",
-                                                              "amount":  43828,
-                                                              "fee":  433
-                                                          },
-                                                          {
-                                                              "id":  "T230117",
-                                                              "amount":  32722,
-                                                              "fee":  323
-                                                          },
-                                                          {
-                                                              "id":  "T867138",
-                                                              "amount":  14698,
-                                                              "fee":  181
-                                                          },
-                                                          {
-                                                              "id":  "T372469",
-                                                              "amount":  3752,
-                                                              "fee":  384
-                                                          },
-                                                          {
-                                                              "id":  "T772387",
-                                                              "amount":  38193,
-                                                              "fee":  366
-                                                          },
-                                                          {
-                                                              "id":  "T801740",
-                                                              "amount":  94339,
-                                                              "fee":  331
-                                                          },
-                                                          {
-                                                              "id":  "T544903",
-                                                              "amount":  61253,
-                                                              "fee":  325
-                                                          },
-                                                          {
-                                                              "id":  "T230817",
-                                                              "amount":  94236,
-                                                              "fee":  141
                                                           }
                                                       ]
                                  },
@@ -2396,7 +1341,7 @@
                                      "id":  "M0019",
                                      "iban":  "GB5872308346060991",
                                      "discount":  {
-                                                      "minimum_transaction_count":  95,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  3
                                                   },
                                      "transactions":  [
@@ -2464,76 +1409,6 @@
                                                               "id":  "T709277",
                                                               "amount":  4581,
                                                               "fee":  102
-                                                          },
-                                                          {
-                                                              "id":  "T650790",
-                                                              "amount":  44385,
-                                                              "fee":  105
-                                                          },
-                                                          {
-                                                              "id":  "T292285",
-                                                              "amount":  90548,
-                                                              "fee":  121
-                                                          },
-                                                          {
-                                                              "id":  "T121188",
-                                                              "amount":  54938,
-                                                              "fee":  258
-                                                          },
-                                                          {
-                                                              "id":  "T137943",
-                                                              "amount":  77507,
-                                                              "fee":  473
-                                                          },
-                                                          {
-                                                              "id":  "T582743",
-                                                              "amount":  25589,
-                                                              "fee":  60
-                                                          },
-                                                          {
-                                                              "id":  "T892381",
-                                                              "amount":  27853,
-                                                              "fee":  446
-                                                          },
-                                                          {
-                                                              "id":  "T939308",
-                                                              "amount":  79266,
-                                                              "fee":  260
-                                                          },
-                                                          {
-                                                              "id":  "T228004",
-                                                              "amount":  18227,
-                                                              "fee":  126
-                                                          },
-                                                          {
-                                                              "id":  "T744941",
-                                                              "amount":  99737,
-                                                              "fee":  318
-                                                          },
-                                                          {
-                                                              "id":  "T294981",
-                                                              "amount":  88614,
-                                                              "fee":  121
-                                                          },
-                                                          {
-                                                              "id":  "T832796",
-                                                              "amount":  66549,
-                                                              "fee":  110
-                                                          },
-                                                          {
-                                                              "id":  "T879640",
-                                                              "amount":  97784,
-                                                              "fee":  441
-                                                          },
-                                                          {
-                                                              "id":  "T836336",
-                                                              "amount":  80845,
-                                                              "fee":  423
-                                                          },
-                                                          {
-                                                              "id":  "T235733",
-                                                              "amount":  94207,
-                                                              "fee":  230
                                                           }
                                                       ]
                                  },
@@ -2541,7 +1416,7 @@
                                      "id":  "M0020",
                                      "iban":  "GB0860739557056601",
                                      "discount":  {
-                                                      "minimum_transaction_count":  99,
+                                                      "minimum_transaction_count":  13,
                                                       "fees_discount":  10
                                                   },
                                      "transactions":  [
@@ -2614,1411 +1489,6 @@
                                                               "id":  "T415779",
                                                               "amount":  73331,
                                                               "fee":  470
-                                                          },
-                                                          {
-                                                              "id":  "T224416",
-                                                              "amount":  3003,
-                                                              "fee":  466
-                                                          },
-                                                          {
-                                                              "id":  "T245636",
-                                                              "amount":  15663,
-                                                              "fee":  36
-                                                          },
-                                                          {
-                                                              "id":  "T102110",
-                                                              "amount":  35936,
-                                                              "fee":  51
-                                                          },
-                                                          {
-                                                              "id":  "T951718",
-                                                              "amount":  96304,
-                                                              "fee":  149
-                                                          },
-                                                          {
-                                                              "id":  "T348497",
-                                                              "amount":  64580,
-                                                              "fee":  165
-                                                          },
-                                                          {
-                                                              "id":  "T511446",
-                                                              "amount":  27070,
-                                                              "fee":  382
-                                                          },
-                                                          {
-                                                              "id":  "T898592",
-                                                              "amount":  71411,
-                                                              "fee":  413
-                                                          },
-                                                          {
-                                                              "id":  "T628673",
-                                                              "amount":  29867,
-                                                              "fee":  346
-                                                          },
-                                                          {
-                                                              "id":  "T739281",
-                                                              "amount":  67536,
-                                                              "fee":  223
-                                                          },
-                                                          {
-                                                              "id":  "T621728",
-                                                              "amount":  20878,
-                                                              "fee":  300
-                                                          },
-                                                          {
-                                                              "id":  "T123925",
-                                                              "amount":  69469,
-                                                              "fee":  289
-                                                          },
-                                                          {
-                                                              "id":  "T210625",
-                                                              "amount":  81799,
-                                                              "fee":  169
-                                                          },
-                                                          {
-                                                              "id":  "T599650",
-                                                              "amount":  87681,
-                                                              "fee":  388
-                                                          },
-                                                          {
-                                                              "id":  "T251853",
-                                                              "amount":  90695,
-                                                              "fee":  10
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0021",
-                                     "iban":  "GB9293169802273636",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  96,
-                                                      "fees_discount":  10
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T543645",
-                                                              "amount":  20049,
-                                                              "fee":  208
-                                                          },
-                                                          {
-                                                              "id":  "T861392",
-                                                              "amount":  31229,
-                                                              "fee":  65
-                                                          },
-                                                          {
-                                                              "id":  "T812140",
-                                                              "amount":  79987,
-                                                              "fee":  197
-                                                          },
-                                                          {
-                                                              "id":  "T151520",
-                                                              "amount":  57967,
-                                                              "fee":  233
-                                                          },
-                                                          {
-                                                              "id":  "T142012",
-                                                              "amount":  94326,
-                                                              "fee":  399
-                                                          },
-                                                          {
-                                                              "id":  "T984368",
-                                                              "amount":  36505,
-                                                              "fee":  418
-                                                          },
-                                                          {
-                                                              "id":  "T379477",
-                                                              "amount":  95770,
-                                                              "fee":  335
-                                                          },
-                                                          {
-                                                              "id":  "T639778",
-                                                              "amount":  80731,
-                                                              "fee":  73
-                                                          },
-                                                          {
-                                                              "id":  "T690193",
-                                                              "amount":  78691,
-                                                              "fee":  163
-                                                          },
-                                                          {
-                                                              "id":  "T665316",
-                                                              "amount":  80347,
-                                                              "fee":  43
-                                                          },
-                                                          {
-                                                              "id":  "T380822",
-                                                              "amount":  18923,
-                                                              "fee":  325
-                                                          },
-                                                          {
-                                                              "id":  "T636584",
-                                                              "amount":  98867,
-                                                              "fee":  398
-                                                          },
-                                                          {
-                                                              "id":  "T996965",
-                                                              "amount":  23876,
-                                                              "fee":  142
-                                                          },
-                                                          {
-                                                              "id":  "T737397",
-                                                              "amount":  9194,
-                                                              "fee":  63
-                                                          },
-                                                          {
-                                                              "id":  "T961774",
-                                                              "amount":  39558,
-                                                              "fee":  218
-                                                          },
-                                                          {
-                                                              "id":  "T206710",
-                                                              "amount":  79814,
-                                                              "fee":  225
-                                                          },
-                                                          {
-                                                              "id":  "T313134",
-                                                              "amount":  49305,
-                                                              "fee":  134
-                                                          },
-                                                          {
-                                                              "id":  "T672470",
-                                                              "amount":  27835,
-                                                              "fee":  446
-                                                          },
-                                                          {
-                                                              "id":  "T154779",
-                                                              "amount":  18977,
-                                                              "fee":  341
-                                                          },
-                                                          {
-                                                              "id":  "T443478",
-                                                              "amount":  9165,
-                                                              "fee":  379
-                                                          },
-                                                          {
-                                                              "id":  "T637141",
-                                                              "amount":  43162,
-                                                              "fee":  370
-                                                          },
-                                                          {
-                                                              "id":  "T461678",
-                                                              "amount":  20267,
-                                                              "fee":  314
-                                                          },
-                                                          {
-                                                              "id":  "T117725",
-                                                              "amount":  81993,
-                                                              "fee":  69
-                                                          },
-                                                          {
-                                                              "id":  "T363926",
-                                                              "amount":  66514,
-                                                              "fee":  348
-                                                          },
-                                                          {
-                                                              "id":  "T714973",
-                                                              "amount":  57228,
-                                                              "fee":  203
-                                                          },
-                                                          {
-                                                              "id":  "T260076",
-                                                              "amount":  84255,
-                                                              "fee":  190
-                                                          },
-                                                          {
-                                                              "id":  "T771774",
-                                                              "amount":  93315,
-                                                              "fee":  51
-                                                          },
-                                                          {
-                                                              "id":  "T936008",
-                                                              "amount":  22994,
-                                                              "fee":  278
-                                                          },
-                                                          {
-                                                              "id":  "T268955",
-                                                              "amount":  53724,
-                                                              "fee":  429
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0022",
-                                     "iban":  "GB1849330314527539",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  88,
-                                                      "fees_discount":  6
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T103270",
-                                                              "amount":  16806,
-                                                              "fee":  116
-                                                          },
-                                                          {
-                                                              "id":  "T150947",
-                                                              "amount":  93811,
-                                                              "fee":  28
-                                                          },
-                                                          {
-                                                              "id":  "T135846",
-                                                              "amount":  51939,
-                                                              "fee":  499
-                                                          },
-                                                          {
-                                                              "id":  "T171891",
-                                                              "amount":  37734,
-                                                              "fee":  411
-                                                          },
-                                                          {
-                                                              "id":  "T285862",
-                                                              "amount":  39837,
-                                                              "fee":  261
-                                                          },
-                                                          {
-                                                              "id":  "T665254",
-                                                              "amount":  69011,
-                                                              "fee":  415
-                                                          },
-                                                          {
-                                                              "id":  "T455451",
-                                                              "amount":  37505,
-                                                              "fee":  165
-                                                          },
-                                                          {
-                                                              "id":  "T888317",
-                                                              "amount":  77755,
-                                                              "fee":  425
-                                                          },
-                                                          {
-                                                              "id":  "T407529",
-                                                              "amount":  14806,
-                                                              "fee":  264
-                                                          },
-                                                          {
-                                                              "id":  "T922916",
-                                                              "amount":  13233,
-                                                              "fee":  406
-                                                          },
-                                                          {
-                                                              "id":  "T810086",
-                                                              "amount":  84578,
-                                                              "fee":  265
-                                                          },
-                                                          {
-                                                              "id":  "T797353",
-                                                              "amount":  15778,
-                                                              "fee":  331
-                                                          },
-                                                          {
-                                                              "id":  "T191535",
-                                                              "amount":  23813,
-                                                              "fee":  269
-                                                          },
-                                                          {
-                                                              "id":  "T658732",
-                                                              "amount":  73881,
-                                                              "fee":  28
-                                                          },
-                                                          {
-                                                              "id":  "T361512",
-                                                              "amount":  73249,
-                                                              "fee":  438
-                                                          },
-                                                          {
-                                                              "id":  "T179109",
-                                                              "amount":  78000,
-                                                              "fee":  488
-                                                          },
-                                                          {
-                                                              "id":  "T803300",
-                                                              "amount":  95506,
-                                                              "fee":  112
-                                                          },
-                                                          {
-                                                              "id":  "T326234",
-                                                              "amount":  93761,
-                                                              "fee":  161
-                                                          },
-                                                          {
-                                                              "id":  "T554746",
-                                                              "amount":  70505,
-                                                              "fee":  36
-                                                          },
-                                                          {
-                                                              "id":  "T989152",
-                                                              "amount":  65502,
-                                                              "fee":  157
-                                                          },
-                                                          {
-                                                              "id":  "T120793",
-                                                              "amount":  24651,
-                                                              "fee":  437
-                                                          },
-                                                          {
-                                                              "id":  "T330438",
-                                                              "amount":  20856,
-                                                              "fee":  459
-                                                          },
-                                                          {
-                                                              "id":  "T210006",
-                                                              "amount":  1663,
-                                                              "fee":  120
-                                                          },
-                                                          {
-                                                              "id":  "T284826",
-                                                              "amount":  64140,
-                                                              "fee":  264
-                                                          },
-                                                          {
-                                                              "id":  "T633666",
-                                                              "amount":  55276,
-                                                              "fee":  250
-                                                          },
-                                                          {
-                                                              "id":  "T635717",
-                                                              "amount":  67065,
-                                                              "fee":  251
-                                                          },
-                                                          {
-                                                              "id":  "T324738",
-                                                              "amount":  6493,
-                                                              "fee":  426
-                                                          },
-                                                          {
-                                                              "id":  "T644885",
-                                                              "amount":  51966,
-                                                              "fee":  393
-                                                          },
-                                                          {
-                                                              "id":  "T987391",
-                                                              "amount":  8792,
-                                                              "fee":  272
-                                                          },
-                                                          {
-                                                              "id":  "T567218",
-                                                              "amount":  36160,
-                                                              "fee":  262
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0023",
-                                     "iban":  "GB0241185805833941",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  61,
-                                                      "fees_discount":  8
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T893029",
-                                                              "amount":  61399,
-                                                              "fee":  174
-                                                          },
-                                                          {
-                                                              "id":  "T687521",
-                                                              "amount":  73691,
-                                                              "fee":  187
-                                                          },
-                                                          {
-                                                              "id":  "T626029",
-                                                              "amount":  53123,
-                                                              "fee":  318
-                                                          },
-                                                          {
-                                                              "id":  "T305521",
-                                                              "amount":  38535,
-                                                              "fee":  135
-                                                          },
-                                                          {
-                                                              "id":  "T877679",
-                                                              "amount":  46698,
-                                                              "fee":  83
-                                                          },
-                                                          {
-                                                              "id":  "T594571",
-                                                              "amount":  7412,
-                                                              "fee":  495
-                                                          },
-                                                          {
-                                                              "id":  "T881387",
-                                                              "amount":  15681,
-                                                              "fee":  250
-                                                          },
-                                                          {
-                                                              "id":  "T165295",
-                                                              "amount":  58377,
-                                                              "fee":  209
-                                                          },
-                                                          {
-                                                              "id":  "T500494",
-                                                              "amount":  66116,
-                                                              "fee":  333
-                                                          },
-                                                          {
-                                                              "id":  "T691962",
-                                                              "amount":  21448,
-                                                              "fee":  303
-                                                          },
-                                                          {
-                                                              "id":  "T218644",
-                                                              "amount":  36664,
-                                                              "fee":  108
-                                                          },
-                                                          {
-                                                              "id":  "T426848",
-                                                              "amount":  88003,
-                                                              "fee":  269
-                                                          },
-                                                          {
-                                                              "id":  "T863041",
-                                                              "amount":  65787,
-                                                              "fee":  453
-                                                          },
-                                                          {
-                                                              "id":  "T345605",
-                                                              "amount":  63128,
-                                                              "fee":  423
-                                                          },
-                                                          {
-                                                              "id":  "T237260",
-                                                              "amount":  45494,
-                                                              "fee":  20
-                                                          },
-                                                          {
-                                                              "id":  "T177070",
-                                                              "amount":  81106,
-                                                              "fee":  461
-                                                          },
-                                                          {
-                                                              "id":  "T572050",
-                                                              "amount":  48340,
-                                                              "fee":  498
-                                                          },
-                                                          {
-                                                              "id":  "T140493",
-                                                              "amount":  91657,
-                                                              "fee":  289
-                                                          },
-                                                          {
-                                                              "id":  "T487214",
-                                                              "amount":  16271,
-                                                              "fee":  221
-                                                          },
-                                                          {
-                                                              "id":  "T569888",
-                                                              "amount":  55378,
-                                                              "fee":  56
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0024",
-                                     "iban":  "GB0861528640208542",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  80,
-                                                      "fees_discount":  3
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T577599",
-                                                              "amount":  15012,
-                                                              "fee":  391
-                                                          },
-                                                          {
-                                                              "id":  "T744689",
-                                                              "amount":  73684,
-                                                              "fee":  475
-                                                          },
-                                                          {
-                                                              "id":  "T849869",
-                                                              "amount":  73734,
-                                                              "fee":  362
-                                                          },
-                                                          {
-                                                              "id":  "T367946",
-                                                              "amount":  13738,
-                                                              "fee":  493
-                                                          },
-                                                          {
-                                                              "id":  "T231414",
-                                                              "amount":  90133,
-                                                              "fee":  52
-                                                          },
-                                                          {
-                                                              "id":  "T679044",
-                                                              "amount":  70213,
-                                                              "fee":  11
-                                                          },
-                                                          {
-                                                              "id":  "T347365",
-                                                              "amount":  1641,
-                                                              "fee":  454
-                                                          },
-                                                          {
-                                                              "id":  "T844772",
-                                                              "amount":  3382,
-                                                              "fee":  372
-                                                          },
-                                                          {
-                                                              "id":  "T337957",
-                                                              "amount":  74043,
-                                                              "fee":  384
-                                                          },
-                                                          {
-                                                              "id":  "T676860",
-                                                              "amount":  64460,
-                                                              "fee":  233
-                                                          },
-                                                          {
-                                                              "id":  "T654694",
-                                                              "amount":  84172,
-                                                              "fee":  194
-                                                          },
-                                                          {
-                                                              "id":  "T205789",
-                                                              "amount":  53231,
-                                                              "fee":  396
-                                                          },
-                                                          {
-                                                              "id":  "T462051",
-                                                              "amount":  7849,
-                                                              "fee":  121
-                                                          },
-                                                          {
-                                                              "id":  "T169806",
-                                                              "amount":  45366,
-                                                              "fee":  267
-                                                          },
-                                                          {
-                                                              "id":  "T849068",
-                                                              "amount":  70338,
-                                                              "fee":  190
-                                                          },
-                                                          {
-                                                              "id":  "T611930",
-                                                              "amount":  57864,
-                                                              "fee":  356
-                                                          },
-                                                          {
-                                                              "id":  "T344116",
-                                                              "amount":  86637,
-                                                              "fee":  141
-                                                          },
-                                                          {
-                                                              "id":  "T383861",
-                                                              "amount":  19199,
-                                                              "fee":  195
-                                                          },
-                                                          {
-                                                              "id":  "T595508",
-                                                              "amount":  13432,
-                                                              "fee":  208
-                                                          },
-                                                          {
-                                                              "id":  "T215225",
-                                                              "amount":  24610,
-                                                              "fee":  378
-                                                          },
-                                                          {
-                                                              "id":  "T217539",
-                                                              "amount":  83048,
-                                                              "fee":  337
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0025",
-                                     "iban":  "GB0251382624527074",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  81,
-                                                      "fees_discount":  4
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T642491",
-                                                              "amount":  9772,
-                                                              "fee":  288
-                                                          },
-                                                          {
-                                                              "id":  "T708836",
-                                                              "amount":  9099,
-                                                              "fee":  273
-                                                          },
-                                                          {
-                                                              "id":  "T243201",
-                                                              "amount":  8078,
-                                                              "fee":  78
-                                                          },
-                                                          {
-                                                              "id":  "T303323",
-                                                              "amount":  89107,
-                                                              "fee":  37
-                                                          },
-                                                          {
-                                                              "id":  "T338782",
-                                                              "amount":  77706,
-                                                              "fee":  89
-                                                          },
-                                                          {
-                                                              "id":  "T681360",
-                                                              "amount":  31811,
-                                                              "fee":  346
-                                                          },
-                                                          {
-                                                              "id":  "T913789",
-                                                              "amount":  15803,
-                                                              "fee":  58
-                                                          },
-                                                          {
-                                                              "id":  "T676613",
-                                                              "amount":  11843,
-                                                              "fee":  376
-                                                          },
-                                                          {
-                                                              "id":  "T251448",
-                                                              "amount":  32651,
-                                                              "fee":  292
-                                                          },
-                                                          {
-                                                              "id":  "T365270",
-                                                              "amount":  5476,
-                                                              "fee":  377
-                                                          },
-                                                          {
-                                                              "id":  "T361543",
-                                                              "amount":  11838,
-                                                              "fee":  370
-                                                          },
-                                                          {
-                                                              "id":  "T199442",
-                                                              "amount":  72303,
-                                                              "fee":  376
-                                                          },
-                                                          {
-                                                              "id":  "T864384",
-                                                              "amount":  59704,
-                                                              "fee":  313
-                                                          },
-                                                          {
-                                                              "id":  "T423378",
-                                                              "amount":  72853,
-                                                              "fee":  22
-                                                          },
-                                                          {
-                                                              "id":  "T105889",
-                                                              "amount":  5099,
-                                                              "fee":  307
-                                                          },
-                                                          {
-                                                              "id":  "T603295",
-                                                              "amount":  23541,
-                                                              "fee":  353
-                                                          },
-                                                          {
-                                                              "id":  "T663802",
-                                                              "amount":  92921,
-                                                              "fee":  352
-                                                          },
-                                                          {
-                                                              "id":  "T363868",
-                                                              "amount":  63284,
-                                                              "fee":  427
-                                                          },
-                                                          {
-                                                              "id":  "T526336",
-                                                              "amount":  19085,
-                                                              "fee":  341
-                                                          },
-                                                          {
-                                                              "id":  "T516453",
-                                                              "amount":  67013,
-                                                              "fee":  64
-                                                          },
-                                                          {
-                                                              "id":  "T966755",
-                                                              "amount":  69019,
-                                                              "fee":  165
-                                                          },
-                                                          {
-                                                              "id":  "T952507",
-                                                              "amount":  38951,
-                                                              "fee":  309
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0026",
-                                     "iban":  "GB6935977961609855",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  33,
-                                                      "fees_discount":  4
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T586158",
-                                                              "amount":  84881,
-                                                              "fee":  346
-                                                          },
-                                                          {
-                                                              "id":  "T249364",
-                                                              "amount":  81614,
-                                                              "fee":  120
-                                                          },
-                                                          {
-                                                              "id":  "T670293",
-                                                              "amount":  96261,
-                                                              "fee":  234
-                                                          },
-                                                          {
-                                                              "id":  "T125385",
-                                                              "amount":  11932,
-                                                              "fee":  259
-                                                          },
-                                                          {
-                                                              "id":  "T263912",
-                                                              "amount":  12657,
-                                                              "fee":  371
-                                                          },
-                                                          {
-                                                              "id":  "T730478",
-                                                              "amount":  18095,
-                                                              "fee":  189
-                                                          },
-                                                          {
-                                                              "id":  "T745890",
-                                                              "amount":  87578,
-                                                              "fee":  469
-                                                          },
-                                                          {
-                                                              "id":  "T648389",
-                                                              "amount":  84228,
-                                                              "fee":  253
-                                                          },
-                                                          {
-                                                              "id":  "T216545",
-                                                              "amount":  9341,
-                                                              "fee":  422
-                                                          },
-                                                          {
-                                                              "id":  "T990092",
-                                                              "amount":  17805,
-                                                              "fee":  340
-                                                          },
-                                                          {
-                                                              "id":  "T198151",
-                                                              "amount":  33210,
-                                                              "fee":  389
-                                                          },
-                                                          {
-                                                              "id":  "T383996",
-                                                              "amount":  19772,
-                                                              "fee":  193
-                                                          },
-                                                          {
-                                                              "id":  "T244195",
-                                                              "amount":  60297,
-                                                              "fee":  145
-                                                          },
-                                                          {
-                                                              "id":  "T431665",
-                                                              "amount":  28499,
-                                                              "fee":  79
-                                                          },
-                                                          {
-                                                              "id":  "T870944",
-                                                              "amount":  46410,
-                                                              "fee":  295
-                                                          },
-                                                          {
-                                                              "id":  "T204860",
-                                                              "amount":  87125,
-                                                              "fee":  450
-                                                          },
-                                                          {
-                                                              "id":  "T784795",
-                                                              "amount":  90287,
-                                                              "fee":  158
-                                                          },
-                                                          {
-                                                              "id":  "T631181",
-                                                              "amount":  23953,
-                                                              "fee":  280
-                                                          },
-                                                          {
-                                                              "id":  "T812968",
-                                                              "amount":  67372,
-                                                              "fee":  330
-                                                          },
-                                                          {
-                                                              "id":  "T888913",
-                                                              "amount":  30406,
-                                                              "fee":  325
-                                                          },
-                                                          {
-                                                              "id":  "T597026",
-                                                              "amount":  84159,
-                                                              "fee":  68
-                                                          },
-                                                          {
-                                                              "id":  "T217315",
-                                                              "amount":  96702,
-                                                              "fee":  286
-                                                          },
-                                                          {
-                                                              "id":  "T313052",
-                                                              "amount":  12923,
-                                                              "fee":  75
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0027",
-                                     "iban":  "GB7268054982634348",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  64,
-                                                      "fees_discount":  12
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T977081",
-                                                              "amount":  91962,
-                                                              "fee":  428
-                                                          },
-                                                          {
-                                                              "id":  "T232175",
-                                                              "amount":  43208,
-                                                              "fee":  465
-                                                          },
-                                                          {
-                                                              "id":  "T338635",
-                                                              "amount":  23832,
-                                                              "fee":  350
-                                                          },
-                                                          {
-                                                              "id":  "T326911",
-                                                              "amount":  77153,
-                                                              "fee":  317
-                                                          },
-                                                          {
-                                                              "id":  "T291919",
-                                                              "amount":  37411,
-                                                              "fee":  496
-                                                          },
-                                                          {
-                                                              "id":  "T536665",
-                                                              "amount":  61254,
-                                                              "fee":  128
-                                                          },
-                                                          {
-                                                              "id":  "T637673",
-                                                              "amount":  60740,
-                                                              "fee":  82
-                                                          },
-                                                          {
-                                                              "id":  "T344974",
-                                                              "amount":  27350,
-                                                              "fee":  62
-                                                          },
-                                                          {
-                                                              "id":  "T286300",
-                                                              "amount":  19560,
-                                                              "fee":  65
-                                                          },
-                                                          {
-                                                              "id":  "T694584",
-                                                              "amount":  5711,
-                                                              "fee":  410
-                                                          },
-                                                          {
-                                                              "id":  "T977665",
-                                                              "amount":  35322,
-                                                              "fee":  414
-                                                          },
-                                                          {
-                                                              "id":  "T582908",
-                                                              "amount":  4912,
-                                                              "fee":  137
-                                                          },
-                                                          {
-                                                              "id":  "T755989",
-                                                              "amount":  16826,
-                                                              "fee":  148
-                                                          },
-                                                          {
-                                                              "id":  "T447937",
-                                                              "amount":  65636,
-                                                              "fee":  59
-                                                          },
-                                                          {
-                                                              "id":  "T909133",
-                                                              "amount":  6701,
-                                                              "fee":  267
-                                                          },
-                                                          {
-                                                              "id":  "T936832",
-                                                              "amount":  33720,
-                                                              "fee":  50
-                                                          },
-                                                          {
-                                                              "id":  "T363355",
-                                                              "amount":  89943,
-                                                              "fee":  206
-                                                          },
-                                                          {
-                                                              "id":  "T503412",
-                                                              "amount":  12731,
-                                                              "fee":  78
-                                                          },
-                                                          {
-                                                              "id":  "T244561",
-                                                              "amount":  34241,
-                                                              "fee":  401
-                                                          },
-                                                          {
-                                                              "id":  "T756652",
-                                                              "amount":  2453,
-                                                              "fee":  338
-                                                          },
-                                                          {
-                                                              "id":  "T125734",
-                                                              "amount":  41501,
-                                                              "fee":  116
-                                                          },
-                                                          {
-                                                              "id":  "T606318",
-                                                              "amount":  55397,
-                                                              "fee":  483
-                                                          },
-                                                          {
-                                                              "id":  "T234311",
-                                                              "amount":  70683,
-                                                              "fee":  469
-                                                          },
-                                                          {
-                                                              "id":  "T478956",
-                                                              "amount":  3338,
-                                                              "fee":  52
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0028",
-                                     "iban":  "GB9228283769157908",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  99,
-                                                      "fees_discount":  7
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T268549",
-                                                              "amount":  38267,
-                                                              "fee":  270
-                                                          },
-                                                          {
-                                                              "id":  "T379902",
-                                                              "amount":  81301,
-                                                              "fee":  152
-                                                          },
-                                                          {
-                                                              "id":  "T143422",
-                                                              "amount":  15483,
-                                                              "fee":  18
-                                                          },
-                                                          {
-                                                              "id":  "T822014",
-                                                              "amount":  77805,
-                                                              "fee":  17
-                                                          },
-                                                          {
-                                                              "id":  "T104625",
-                                                              "amount":  88668,
-                                                              "fee":  476
-                                                          },
-                                                          {
-                                                              "id":  "T674325",
-                                                              "amount":  16584,
-                                                              "fee":  123
-                                                          },
-                                                          {
-                                                              "id":  "T842404",
-                                                              "amount":  48232,
-                                                              "fee":  90
-                                                          },
-                                                          {
-                                                              "id":  "T459348",
-                                                              "amount":  95468,
-                                                              "fee":  286
-                                                          },
-                                                          {
-                                                              "id":  "T130106",
-                                                              "amount":  77924,
-                                                              "fee":  290
-                                                          },
-                                                          {
-                                                              "id":  "T184465",
-                                                              "amount":  40150,
-                                                              "fee":  76
-                                                          },
-                                                          {
-                                                              "id":  "T520571",
-                                                              "amount":  4482,
-                                                              "fee":  392
-                                                          },
-                                                          {
-                                                              "id":  "T357163",
-                                                              "amount":  54041,
-                                                              "fee":  499
-                                                          },
-                                                          {
-                                                              "id":  "T889518",
-                                                              "amount":  99898,
-                                                              "fee":  37
-                                                          },
-                                                          {
-                                                              "id":  "T344880",
-                                                              "amount":  61191,
-                                                              "fee":  321
-                                                          },
-                                                          {
-                                                              "id":  "T753129",
-                                                              "amount":  21558,
-                                                              "fee":  119
-                                                          },
-                                                          {
-                                                              "id":  "T469638",
-                                                              "amount":  20082,
-                                                              "fee":  129
-                                                          },
-                                                          {
-                                                              "id":  "T208696",
-                                                              "amount":  25784,
-                                                              "fee":  393
-                                                          },
-                                                          {
-                                                              "id":  "T628689",
-                                                              "amount":  25449,
-                                                              "fee":  353
-                                                          },
-                                                          {
-                                                              "id":  "T326746",
-                                                              "amount":  75805,
-                                                              "fee":  147
-                                                          },
-                                                          {
-                                                              "id":  "T444435",
-                                                              "amount":  95248,
-                                                              "fee":  97
-                                                          },
-                                                          {
-                                                              "id":  "T660070",
-                                                              "amount":  64825,
-                                                              "fee":  31
-                                                          },
-                                                          {
-                                                              "id":  "T430425",
-                                                              "amount":  69749,
-                                                              "fee":  61
-                                                          },
-                                                          {
-                                                              "id":  "T985806",
-                                                              "amount":  89862,
-                                                              "fee":  437
-                                                          },
-                                                          {
-                                                              "id":  "T987864",
-                                                              "amount":  59064,
-                                                              "fee":  287
-                                                          },
-                                                          {
-                                                              "id":  "T787568",
-                                                              "amount":  89910,
-                                                              "fee":  280
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0029",
-                                     "iban":  "GB2229440061152751",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  90,
-                                                      "fees_discount":  11
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T629987",
-                                                              "amount":  20414,
-                                                              "fee":  150
-                                                          },
-                                                          {
-                                                              "id":  "T387201",
-                                                              "amount":  88336,
-                                                              "fee":  111
-                                                          },
-                                                          {
-                                                              "id":  "T493228",
-                                                              "amount":  41591,
-                                                              "fee":  336
-                                                          },
-                                                          {
-                                                              "id":  "T156789",
-                                                              "amount":  85587,
-                                                              "fee":  182
-                                                          },
-                                                          {
-                                                              "id":  "T353100",
-                                                              "amount":  12750,
-                                                              "fee":  497
-                                                          },
-                                                          {
-                                                              "id":  "T739511",
-                                                              "amount":  50539,
-                                                              "fee":  324
-                                                          },
-                                                          {
-                                                              "id":  "T832790",
-                                                              "amount":  19617,
-                                                              "fee":  292
-                                                          },
-                                                          {
-                                                              "id":  "T410888",
-                                                              "amount":  62828,
-                                                              "fee":  171
-                                                          },
-                                                          {
-                                                              "id":  "T672833",
-                                                              "amount":  34099,
-                                                              "fee":  476
-                                                          },
-                                                          {
-                                                              "id":  "T612857",
-                                                              "amount":  68008,
-                                                              "fee":  264
-                                                          },
-                                                          {
-                                                              "id":  "T416570",
-                                                              "amount":  73237,
-                                                              "fee":  418
-                                                          },
-                                                          {
-                                                              "id":  "T130524",
-                                                              "amount":  38506,
-                                                              "fee":  13
-                                                          },
-                                                          {
-                                                              "id":  "T352237",
-                                                              "amount":  54577,
-                                                              "fee":  97
-                                                          },
-                                                          {
-                                                              "id":  "T583657",
-                                                              "amount":  63994,
-                                                              "fee":  214
-                                                          },
-                                                          {
-                                                              "id":  "T544796",
-                                                              "amount":  4203,
-                                                              "fee":  345
-                                                          },
-                                                          {
-                                                              "id":  "T576593",
-                                                              "amount":  35821,
-                                                              "fee":  110
-                                                          },
-                                                          {
-                                                              "id":  "T521745",
-                                                              "amount":  8797,
-                                                              "fee":  470
-                                                          },
-                                                          {
-                                                              "id":  "T463533",
-                                                              "amount":  1106,
-                                                              "fee":  422
-                                                          },
-                                                          {
-                                                              "id":  "T859738",
-                                                              "amount":  32892,
-                                                              "fee":  402
-                                                          },
-                                                          {
-                                                              "id":  "T695670",
-                                                              "amount":  28825,
-                                                              "fee":  215
-                                                          },
-                                                          {
-                                                              "id":  "T857147",
-                                                              "amount":  85325,
-                                                              "fee":  78
-                                                          },
-                                                          {
-                                                              "id":  "T273134",
-                                                              "amount":  99826,
-                                                              "fee":  373
-                                                          },
-                                                          {
-                                                              "id":  "T881660",
-                                                              "amount":  85439,
-                                                              "fee":  105
-                                                          },
-                                                          {
-                                                              "id":  "T627535",
-                                                              "amount":  88271,
-                                                              "fee":  228
-                                                          },
-                                                          {
-                                                              "id":  "T965675",
-                                                              "amount":  85290,
-                                                              "fee":  379
-                                                          },
-                                                          {
-                                                              "id":  "T552823",
-                                                              "amount":  34488,
-                                                              "fee":  241
-                                                          }
-                                                      ]
-                                 },
-                                 {
-                                     "id":  "M0030",
-                                     "iban":  "GB4872890884639885",
-                                     "discount":  {
-                                                      "minimum_transaction_count":  83,
-                                                      "fees_discount":  13
-                                                  },
-                                     "transactions":  [
-                                                          {
-                                                              "id":  "T145803",
-                                                              "amount":  85081,
-                                                              "fee":  36
-                                                          },
-                                                          {
-                                                              "id":  "T952755",
-                                                              "amount":  54304,
-                                                              "fee":  33
-                                                          },
-                                                          {
-                                                              "id":  "T641927",
-                                                              "amount":  18386,
-                                                              "fee":  253
-                                                          },
-                                                          {
-                                                              "id":  "T986107",
-                                                              "amount":  87790,
-                                                              "fee":  193
-                                                          },
-                                                          {
-                                                              "id":  "T533957",
-                                                              "amount":  25840,
-                                                              "fee":  493
-                                                          },
-                                                          {
-                                                              "id":  "T511313",
-                                                              "amount":  98325,
-                                                              "fee":  311
-                                                          },
-                                                          {
-                                                              "id":  "T407787",
-                                                              "amount":  98065,
-                                                              "fee":  54
-                                                          },
-                                                          {
-                                                              "id":  "T127192",
-                                                              "amount":  81568,
-                                                              "fee":  33
-                                                          },
-                                                          {
-                                                              "id":  "T774249",
-                                                              "amount":  7814,
-                                                              "fee":  12
-                                                          },
-                                                          {
-                                                              "id":  "T561662",
-                                                              "amount":  24464,
-                                                              "fee":  63
-                                                          },
-                                                          {
-                                                              "id":  "T961492",
-                                                              "amount":  64885,
-                                                              "fee":  70
-                                                          },
-                                                          {
-                                                              "id":  "T581843",
-                                                              "amount":  53351,
-                                                              "fee":  228
-                                                          },
-                                                          {
-                                                              "id":  "T971865",
-                                                              "amount":  83801,
-                                                              "fee":  209
-                                                          },
-                                                          {
-                                                              "id":  "T261887",
-                                                              "amount":  25341,
-                                                              "fee":  34
-                                                          },
-                                                          {
-                                                              "id":  "T785110",
-                                                              "amount":  78116,
-                                                              "fee":  332
-                                                          },
-                                                          {
-                                                              "id":  "T418031",
-                                                              "amount":  76107,
-                                                              "fee":  170
-                                                          },
-                                                          {
-                                                              "id":  "T168229",
-                                                              "amount":  91188,
-                                                              "fee":  58
-                                                          },
-                                                          {
-                                                              "id":  "T211824",
-                                                              "amount":  34866,
-                                                              "fee":  393
-                                                          },
-                                                          {
-                                                              "id":  "T598800",
-                                                              "amount":  18531,
-                                                              "fee":  337
-                                                          },
-                                                          {
-                                                              "id":  "T631747",
-                                                              "amount":  92755,
-                                                              "fee":  422
-                                                          },
-                                                          {
-                                                              "id":  "T536677",
-                                                              "amount":  98429,
-                                                              "fee":  499
-                                                          },
-                                                          {
-                                                              "id":  "T701329",
-                                                              "amount":  55534,
-                                                              "fee":  98
-                                                          },
-                                                          {
-                                                              "id":  "T921383",
-                                                              "amount":  63304,
-                                                              "fee":  338
-                                                          },
-                                                          {
-                                                              "id":  "T283083",
-                                                              "amount":  54445,
-                                                              "fee":  192
-                                                          },
-                                                          {
-                                                              "id":  "T222864",
-                                                              "amount":  36123,
-                                                              "fee":  363
-                                                          },
-                                                          {
-                                                              "id":  "T333966",
-                                                              "amount":  4981,
-                                                              "fee":  313
-                                                          },
-                                                          {
-                                                              "id":  "T812856",
-                                                              "amount":  90699,
-                                                              "fee":  146
                                                           }
                                                       ]
                                  }
